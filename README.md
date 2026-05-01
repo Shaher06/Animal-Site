@@ -52,7 +52,7 @@ Animal-Site/
 
 ## 👥 Team Members
 
-* 👤 Shaher Mamdouh Ahmed
+* 👤 Shaher Mamdouh Ahmed - Team Leader
 * 👤 Tarek Hany Saad
 * 👤 Alaa Tarek
 * 👤 Malak Samir
