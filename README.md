@@ -73,7 +73,7 @@ https://shaher06.github.io/Animal-Site/
 
 For any questions or suggestions:
 
-* GitHub: https://github.com/Shaheer06
+* GitHub: https://github.com/Shaher06
 
 ---
 
