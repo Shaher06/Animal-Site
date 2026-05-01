@@ -65,9 +65,7 @@ Animal-Site/
 ---
 
 ## 🌐 Live Demo
-
-*(Add your GitHub Pages link here if available)*
-Example: https://your-username.github.io/Animal-Site/
+https://shaher06.github.io/Animal-Site/
 
 ---
 
