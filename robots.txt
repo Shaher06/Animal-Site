@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://shaher06.github.io/Animal-Site/sitemap.xml
