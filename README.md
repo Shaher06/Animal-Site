@@ -23,6 +23,7 @@ Animal Base is a multi-page educational website that introduces children (and cu
 ## Table of contents
 
 - [Overview](#overview)
+- [Team](#team)
 - [Features](#features)
 - [Pages](#pages)
 - [Tech stack](#tech-stack)
@@ -35,7 +36,6 @@ Animal Base is a multi-page educational website that introduces children (and cu
 - [Images and licensing](#images-and-licensing)
 - [Project history](#project-history)
 - [Known limitations](#known-limitations)
-- [Team](#team)
 
 ---
 
@@ -49,6 +49,23 @@ Animal Base is a multi-page educational website that introduces children (and cu
 | **Type** | Static multi-page website (HTML, CSS, JavaScript) |
 | **Pages** | 13 |
 | **Dependencies** | None at runtime (Google Fonts is optional, with system-font fallbacks) |
+
+## Team
+
+Created by first-year students at the Faculty of Computers and Artificial Intelligence.
+
+| # | Name | Role | Contribution |
+|:-:|---|---|---|
+| 1 | **Shaher Mamdouh Ahmed** | **Team Leader** | Led the team and contributed to the layout |
+| 2 | Malak Samir Tolba | Team Member | Worked on the navigation |
+| 3 | Tarek Hany Mohamed | Team Member | Helped with the styling |
+| 4 | Aalaa Tarek Ibrahim | Team Member | Developed the animal pages |
+| 5 | Mazen Mohamed Ahmed | Team Member | Assisted with the design |
+| 6 | Sabrin Walid Moustafa | Team Member | Managed the images |
+| 7 | Hamdy Waleed Abdullah | Team Member | Wrote the introduction text |
+| 8 | Seifeldin Tamer Kamal | Team Member | Organized the content |
+
+---
 
 ## Features
 
@@ -248,10 +265,6 @@ Version 2.0 keeps the original idea and identity but rebuilds almost everything:
 - The contact form depends on the visitor's email app.
 - Animal facts were rewritten for clarity and checked for common errors, but have not been reviewed by a biologist.
 
-## Team
-
-Created by first-year students at the Faculty of Computers and Artificial Intelligence:
-
-Shaher Mamdouh Ahmed · Malak Samir Tolba · Tarek Hany Mohamed · Aalaa Tarek Ibrahim · Mazen Mohamed Ahmed · Sabrin Walid Moustafa · Hamdy Waleed Abdullah · Seifeldin Tamer Kamal
+---
 
 Version 2.0 modernisation: November 2026.
